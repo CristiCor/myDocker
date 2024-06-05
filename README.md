@@ -1,4 +1,4 @@
-# my_docker
+# my_docker with Symfony 7.1.1
 
 This is my Docker for basic DEVELOPMENT!
 
@@ -11,7 +11,7 @@ For Symfony framework use `main` branch. <br>
 ```bash
 make up
 make ssh
-sh .docker/install-symfony.sh "6.4.*" 
+sh .docker/install-symfony.sh "6.4.*" -- trebuie investigat de ce mie imi da eroare si lui Cosmin ii merge
 ```
 
 Requirement:
